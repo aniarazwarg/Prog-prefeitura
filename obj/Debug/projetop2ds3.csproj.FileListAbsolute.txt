@@ -152,7 +152,6 @@ C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\K4os.Compression.LZ4.xml
 C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\K4os.Compression.LZ4.Streams.xml
 C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\MySql.Data.xml
 C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\System.Buffers.xml
 C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\System.IO.Pipelines.xml
 C:\Users\Aluno\Desktop\nia\projetop2ds3 1905\bin\Debug\System.Memory.xml

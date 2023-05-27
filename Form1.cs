@@ -32,7 +32,7 @@ namespace projetop2ds3
 
             Usuario usuario = new Usuario();
             usuario.nome = boxlog.Text;
-            usuario.senha = boxlog.Text;
+            usuario.senha = boxsen.Text;
 
             if (usuario.verificasenha(usuario.nome,usuario.senha))
             {

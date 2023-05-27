@@ -17,16 +17,16 @@ namespace projetop2ds3
         {
             InitializeComponent();
         }
-        public string mySqlString = "server=localhost;port3306;uid=root;database=escola";
-        private object dataGridViewAdm;
+        public string mySqlString = "server=localhost;port3306;uid=root;database=db_atividade";
+        
 
         private void form_adm_Load(object sender, EventArgs e)
         {
   
-        MysqlConnection conn = new MysqlConnection(mySqlString);
-        string sql = "select*from tb_usuario";
-        MYSqlCommand cmd = new MYSqlCommand(sql, conn);
-        MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
+        MySqlConnection conn = new MySqlConnection(mySqlString);
+        string sql = "select * from tb_usuario";
+        MySqlCommand cmd = new MySqlCommand(sql, conn);
+            MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
         DataTable data = new DataTable();
         adapter.Fill(data);
 
