@@ -38,7 +38,7 @@ namespace projetop2ds3
 
             if (usuario != "" && senha != "")
             {
-                string mysql = "server=localhost;uid=root;database=db_atividade";
+                string mysql = "server=localhost;uid=root;database=db_aniara";
                 string jovem = usuario;
                 string senhajovem = senhaUsuario;
 

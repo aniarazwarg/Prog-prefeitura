@@ -57,41 +57,7 @@
             this.lb_Nome.Size = new System.Drawing.Size(55, 20);
             this.lb_Nome.TabIndex = 8;
             this.lb_Nome.Text = "Nome:";
-            // 
-            // cad_NB
-            // 
-            this.cad_NB.AutoSize = true;
-            this.cad_NB.Location = new System.Drawing.Point(480, 145);
-            this.cad_NB.Name = "cad_NB";
-            this.cad_NB.Size = new System.Drawing.Size(56, 17);
-            this.cad_NB.TabIndex = 21;
-            this.cad_NB.TabStop = true;
-            this.cad_NB.Text = "Outros";
-            this.cad_NB.UseVisualStyleBackColor = true;
-            this.cad_NB.CheckedChanged += new System.EventHandler(this.cad_NB_CheckedChanged);
-            // 
-            // cad_masc
-            // 
-            this.cad_masc.AutoSize = true;
-            this.cad_masc.Location = new System.Drawing.Point(401, 145);
-            this.cad_masc.Name = "cad_masc";
-            this.cad_masc.Size = new System.Drawing.Size(73, 17);
-            this.cad_masc.TabIndex = 20;
-            this.cad_masc.TabStop = true;
-            this.cad_masc.Text = "Masculino";
-            this.cad_masc.UseVisualStyleBackColor = true;
-            // 
-            // cad_fem
-            // 
-            this.cad_fem.AutoSize = true;
-            this.cad_fem.Location = new System.Drawing.Point(313, 145);
-            this.cad_fem.Name = "cad_fem";
-            this.cad_fem.Size = new System.Drawing.Size(67, 17);
-            this.cad_fem.TabIndex = 19;
-            this.cad_fem.TabStop = true;
-            this.cad_fem.Text = "Feminino";
-            this.cad_fem.UseVisualStyleBackColor = true;
-            this.cad_fem.CheckedChanged += new System.EventHandler(this.cad_fem_CheckedChanged);
+        
             // 
             // lbgend
             // 
